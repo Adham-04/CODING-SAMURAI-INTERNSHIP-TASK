@@ -64,9 +64,9 @@ The classic **Iris dataset** was used, which includes the following features:
 
 | Model                | Accuracy |
 |---------------------|----------|
-| Logistic Regression | ~0.95    |
-| K-Nearest Neighbors | ~0.93    |
-| Random Forest       | ~0.96    |
+| Logistic Regression | ~0.97    |
+| K-Nearest Neighbors | ~0.95    |
+| Random Forest       | ~0.97    |
 
 > *Note: Accuracy may vary slightly depending on train-test split and data randomness.*
 
